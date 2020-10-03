@@ -1,0 +1,2 @@
+username = "yourusername"
+pw = "********"
